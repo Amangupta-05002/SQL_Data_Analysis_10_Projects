@@ -20,7 +20,7 @@ This project demonstrates the implementation of a Library Management System usin
 
 ### 1. Database Setup
 
-[ERD]- (https://github.com/Amangupta-05002/SQL_Data_Analysis_10_Projects/blob/main/Library-System-Management---P2/library_erd.png)
+![ERD](https://github.com/Amangupta-05002/SQL_Data_Analysis_10_Projects/blob/main/Library-System-Management---P2/library_erd.png)
 
 - **Database Creation**: Created a database named `library_db`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
@@ -503,7 +503,7 @@ This project demonstrates the application of SQL skills in creating and managing
 
 1. **Clone the Repository**: Clone this repository to your local machine.
    ```sh
-   git clone: https://github.com/Amangupta-05002/SQL_Data_Analysis_10_Projects/tree/main/Library-System-Management---P2 
+   git clone: https://github.com/Amangupta-05002/SQL_Data_Analysis_10_Projects/tree/main/Library-System-Management---P2.git 
    ```
 
 2. **Set Up the Database**: Execute the SQL scripts in the `database_setup.sql` file to create and populate the database.
